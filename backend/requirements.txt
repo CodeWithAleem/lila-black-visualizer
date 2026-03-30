@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pyarrow
+pandas
+numpy
+python-multipart
+setuptools
