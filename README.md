@@ -5,7 +5,7 @@ A web tool for Level Designers to explore player movement, combat hotspots, and 
 ## 🔗 Live Demo
 
 - **Frontend:** https://lila-black-visualizer.vercel.app
-- **Backend API:** https://lila-black-visualizer.onrender.com/api/docs
+- **Backend API:** https://lila-black-visualizer.onrender.com/docs
 
 ---
 
