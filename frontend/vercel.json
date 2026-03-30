@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "YOUR_BACKEND_URL/api/:path*" },
+    { "source": "/api/:path*", "destination": "https://lila-black-visualizer.onrender.com/api/:path*" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
