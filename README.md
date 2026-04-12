@@ -9,6 +9,16 @@ A web tool for Level Designers to explore player movement, combat hotspots, and 
 
 ---
 
+## ⚠️ First Visit (Important)
+
+The backend runs on Render's free tier and sleeps after 15 minutes of inactivity. Before using the tool:
+
+1. Open https://lila-black-visualizer.onrender.com/api/health — wait for `{"status":"ok"}`
+2. Open https://lila-black-visualizer.onrender.com/api/stats — wait for JSON to load (~30-60 seconds)
+3. Now open https://lila-black-visualizer.vercel.app — everything loads instantly
+
+After the first load, all data is cached and responses are instant.
+
 ## Quick Start (Local Development)
 
 ### Prerequisites
